@@ -10,11 +10,11 @@ with open(r'C:\Users\syafo\VIX_Intelligence\Farmacia\json\sintomas_med.json', 'r
 //instagram_link_promos = "https://www.instagram.com/xxxxx"
 
 MENU_OPTIONS = {
-    '1': (f"🏪 Nuestra tienda queda en XXXX, n° 123 - XXXX - XX\n\n"
+    '1': (f"🏪 Nuestra tienda queda en San casimiro, Calle Monagas - 80 mts de Plaza Páez - \n\n"
           f"💟 ¡Aquí cuidamos de ti! 💟\n"
           f"✔️ Abrimos de Lunes a Sábado de 08h a 22h 🕜\n\n"
-          f"📍 ¡Todo en perfumería y medicamentos con precios que caben en tu bolsillo! 💲\n\n"
-          f"¡Contamos con estacionamiento para PCD, además de atención personalizada!\n\n"
+          f"📍 ¡Todo en medicamentos con precios que caben en tu bolsillo! 💲\n\n"
+         // f"¡Contamos con estacionamiento para PCD, además de atención personalizada!\n\n"
           f"\n"
           f"¡Visita nuestra página en Instagram y entérate de las mejores promociones del mercado!"
           f"\n\n"
