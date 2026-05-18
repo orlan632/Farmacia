@@ -134,6 +134,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## Licença
 
+markdown
+Despliegue forzado para corregir spaCy.
+
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
 
 ## Autor
