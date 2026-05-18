@@ -4,8 +4,8 @@ import json
 import requests
 from flask import Flask, request, jsonify
 from dotenv import load_dotenv
-from response_generator import ResponseGenerator
-from models import User
+//from response_generator import ResponseGenerator
+//from models import User
 
 # Configurar logging
 logging.basicConfig(
