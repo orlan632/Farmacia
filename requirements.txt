@@ -4,5 +4,5 @@ Flask==2.3.3
 requests==2.31.0
 nltk==3.8.1
 spacy==3.7.2
-pymongo==4.6.1
+https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.7.0/es_core_news_sm-3.7.0-py3-none-any.whl
 
