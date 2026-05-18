@@ -6,8 +6,8 @@ import json
 with open(r'C:\Users\syafo\VIX_Intelligence\Farmacia\json\sintomas_med.json', 'r', encoding='utf-8') as f:
     known_symptoms = json.load(f)
 
-instagram_link = "https://www.instagram.com/xxxxx"
-instagram_link_promos = "https://www.instagram.com/xxxxx"
+//instagram_link = "https://www.instagram.com/xxxxx"
+//instagram_link_promos = "https://www.instagram.com/xxxxx"
 
 MENU_OPTIONS = {
     '1': (f"🏪 Nuestra tienda queda en XXXX, n° 123 - XXXX - XX\n\n"
